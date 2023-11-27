@@ -10,7 +10,10 @@
     </p>
 </header>
 
+
+
 <hr>
+
 
 <main>
   <!-- Lo que pueden ser mis cualidades, trabajos -->
@@ -20,32 +23,17 @@
   <em>
     <p> Trophies </p>
   </em>
-  
   <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jordiralde" alt="jordiralde"/></a> 
   </p>
-  
   <!-- Sigueme -->
   <p>
     <img align="left" src="https://img.shields.io/github/followers/{jordiralde}.svg?style=social&label=Follow&maxAge=2592000"/> 
   </p>
-</main>
-
-<hr>
-
-<footer>
-  <!-- Contactos -->
-  <h2> Contact Me (Footer) </h2>
-  <p align="left">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </p>
 
 
-  
-</footer>
 
-
-<h3 align="left"> Languages: </h3>
+  <h3 align="left"> Lenguajes: </h3>
   <p align="left"> 
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
@@ -68,9 +56,6 @@
   </p>
 
 
-  
-
-
 
 <h3 align="left"> Herramientas: </h3>
   <p align="left">
@@ -82,7 +67,7 @@
     </a> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>      </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <a href="https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1284849140647996391" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
     </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
@@ -116,3 +101,16 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
     </a> 
   </p>
+</main>
+
+
+<hr>
+
+
+<footer>
+  <!-- Contactos -->
+  <h2> Contact Me (Footer) </h2>
+  <p align="left">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </p>
+</footer>
