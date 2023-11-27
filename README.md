@@ -18,13 +18,11 @@
 <main>
   <!-- Lo que pueden ser mis cualidades, trabajos -->
   <h2> (Main) </h2>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordiralde&show_icons=true&locale=en&layout=compact" alt="jordiralde"/> 
-  <em>
-    <p> Trophies </p>
-  </em>
+  <em>      <p> Trophies </p>      </em>
   <p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jordiralde" alt="jordiralde"/></a> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=jordiralde" alt="jordiralde"/>
+    </a> 
   </p>
   <!-- Sigueme -->
   <p>
