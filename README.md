@@ -24,11 +24,6 @@
       <img src="https://github-profile-trophy.vercel.app/?username=jordiralde" alt="jordiralde"/>
     </a> 
   </p>
-  <!-- Sigueme -->
-  <p>
-    <img align="left" src="https://img.shields.io/github/followers/{jordiralde}.svg?style=social&label=Follow&maxAge=2592000"/> 
-  </p>
-
 
 
   <h3 align="left"> Lenguajes: </h3>
@@ -99,12 +94,18 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
     </a> 
   </p>
+
+  <h3 align="center"> IDE'S Que use: </h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" /> 
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"/> 
+    <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Colab"/>
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/> 
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual"/> 
+    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm"/>
+  </p>
 </main>
-
-
 <hr>
-
-
 <footer>
   <!-- Contactos -->
   <h2> Contact Me (Footer) </h2>
